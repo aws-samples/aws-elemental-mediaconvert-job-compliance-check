@@ -14,6 +14,7 @@ This is a reference implementation on how you could implement compliance checks 
 1. Clone this repository and change into `cdk` directory.
 1. Set below environment variables in env.sh
 
+
 ```
 # Required: set the AWS CLI profile name
 export AWS_PROFILE="default"
