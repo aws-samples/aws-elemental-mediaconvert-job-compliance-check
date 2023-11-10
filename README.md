@@ -6,7 +6,7 @@ This is a reference implementation on how you could implement compliance checks 
 
 ## Pre-requisites
 
-1. Install [CDK](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html)
+1. Install [AWS Cloud Development Kit (AWS CDK)](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html)
 1. Install [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 ## Steps to build
